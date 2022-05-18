@@ -47,17 +47,16 @@
                       outlined
                       v-if="showLastItem"
                       shaped
-                      width="300"
                     >
                       <p>Redes sociais</p>
                       <v-row>
-                        <v-col md="2">
+                        <v-col md="2" xs="2">
                           <a href="https://www.linkedin.com/in/jonathan-malagueta-524391150/?msgControlName=reply_to_sender&msgConversationId=2-NDZhMjM0ZDctODJjOC00ODc0LTlmYzgtZWExN2ZkOGMzYmY3XzAxMg%3D%3D&msgOverlay=true"><v-icon color="teal lighten-1">mdi-linkedin</v-icon></a>
                         </v-col>
-                        <v-col md="2">
+                        <v-col md="2" xs="2">
                           <a href="https://github.com/LofiJon"><v-icon color="teal lighten-1">mdi-github</v-icon></a>
                         </v-col>
-                        <v-col md="2">
+                        <v-col md="2" xs="2">
                           <a href="https://www.instagram.com/lofijon/"><v-icon color="teal lighten-1">mdi-instagram</v-icon></a>
                         </v-col>
                       </v-row>
